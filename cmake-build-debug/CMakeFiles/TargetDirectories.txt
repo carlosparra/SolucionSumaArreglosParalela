@@ -1,0 +1,3 @@
+/Users/carlosparra/CLionProjects/SolucionSumaArreglosParalela/cmake-build-debug/CMakeFiles/SolucionSumaArreglosParalela_Carlos_Parra.dir
+/Users/carlosparra/CLionProjects/SolucionSumaArreglosParalela/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/carlosparra/CLionProjects/SolucionSumaArreglosParalela/cmake-build-debug/CMakeFiles/rebuild_cache.dir
